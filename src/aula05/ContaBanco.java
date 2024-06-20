@@ -1,11 +1,16 @@
 package aula05;
 
-public class Banco {
-    public String numConta;
+public class ContaBanco {
+    public int numConta;
     protected String tipo;
     private String dono;
     private float saldo;
-    private String status;
+    private boolean status;
+
+    public ContaBanco() {
+        saldo = this.saldo = 0;
+        status = this.status = false;
+    }
 
     public void abrirConta() {
     }
