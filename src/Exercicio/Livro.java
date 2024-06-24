@@ -17,7 +17,6 @@ public class Livro implements Publicacao{
         this.leitor = leitor;
     }
 
-
     public String detalhes() {return "Livro{" +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
@@ -90,7 +89,11 @@ public class Livro implements Publicacao{
 
     @Override
     public void folhear(int pagina) {
-        this.pagAtual = pagina;
+        if (pagina > this.totPaginas) {
+            System.out.println("Erro!");
+        } else {
+            this.pagAtual = pagina;
+        }
     }
 
     @Override
