@@ -1,4 +1,3 @@
 package aula10;
 
-public class Visitante extends Pessoa{
-}
+public final class Visitante extends Pessoa{ }
