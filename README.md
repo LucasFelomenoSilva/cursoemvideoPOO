@@ -31,7 +31,7 @@ Para utilizar este repositório, siga os passos abaixo:
 
 1. Clone este repositório na sua máquina local usando o seguinte comando:
 
-git clone [https://github.com/seu-usuario/curso-java-poo-gustavo-guanabara.git](https://github.com/seu-usuario/curso-java-poo-gustavo-guanabara.git)
+git clone [https://github.com/LucasFelomenoSilva/cursoemvideoPOO](https://github.com/LucasFelomenoSilva/cursoemvideoPOO)
 
 2. Navegue até o diretório do projeto:
 
