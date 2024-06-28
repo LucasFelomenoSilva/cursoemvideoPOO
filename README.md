@@ -35,7 +35,7 @@ git clone [https://github.com/LucasFelomenoSilva/cursoemvideoPOO](https://github
 
 2. Navegue até o diretório do projeto:
 
-    cd curso-java-poo-gustavo-guanabara
+    cd cursoemvideoPOO
 
 3. Dentro de cada pasta de módulo, você encontrará os códigos fonte dos exercícios e projetos correspondentes àquela parte do curso.
 
